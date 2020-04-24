@@ -1,0 +1,9 @@
+com\gnng\aop\util\ResponseUtil.class
+com\gnng\aop\bean\UserInfo.class
+com\gnng\aop\aspect\HttpAspect.class
+com\gnng\aop\controller\ResultController.class
+com\gnng\aop\util\ResponseResult.class
+com\gnng\aop\util\ExceptionEnum.class
+com\gnng\aop\handle\ExceptionHandle.class
+com\gnng\aop\util\DescribeException.class
+com\gnng\aop\AppApplication.class
